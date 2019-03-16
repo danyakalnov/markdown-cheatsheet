@@ -85,6 +85,7 @@ This is an inline code block:
 
 <!-- Tables -->
 This is a simple table you can create with markdown:
+
 | Name        | Email    |
 |-------------|----------|
 |Kalnov Danila| danyakalnov@gmail.com |
