@@ -25,7 +25,7 @@ __This text is also strong__
 ___
 
 <!-- Escapes -->
-Don't forget escape slashes if you want to display special symbols like asteriks or octothorpes:
+Don't forget escape slashes if you want to display special symbols like asterisks or octothorpes:
 \# this is octothorpe
 
 \* and this is asterisk
@@ -88,7 +88,7 @@ This is a simple table you can create with markdown:
 | Name   | Email    |
 |--------|----------|
 |Kalnov Danila| danyakalnov@gmail.com |
-|Kalniv Nikita| kalnovnikita@yandex.ru |
+|Kalnov Nikita| kalnovnikita@yandex.ru |
 
 ---
 
